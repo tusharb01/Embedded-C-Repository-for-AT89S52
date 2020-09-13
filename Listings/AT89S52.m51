@@ -1,4 +1,4 @@
-BL51 BANKED LINKER/LOCATER V6.22.2.0                                                    09/13/2020  12:26:14  PAGE 1
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                    09/13/2020  18:50:06  PAGE 1
 
 
 BL51 BANKED LINKER/LOCATER V6.22.2.0, INVOKED BY:
@@ -59,7 +59,7 @@ SYMBOL TABLE OF MODULE:  .\Objects\AT89S52 (?C_STARTUP)
   D:00E0H         SYMBOL        ACC
   D:00F0H         SYMBOL        B
   D:0083H         SYMBOL        DPH
-BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  09/13/2020  12:26:14  PAGE 2
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  09/13/2020  18:50:06  PAGE 2
 
 
   D:0082H         SYMBOL        DPL
@@ -101,28 +101,28 @@ SYMBOL TABLE OF MODULE:  .\Objects\AT89S52 (?C_STARTUP)
   D:0004H         SYMBOL        i
   D:0004H         SYMBOL        j
   -------         ENDDO         
+  C:0800H         LINE#         1
+  C:0800H         LINE#         2
   C:0800H         LINE#         4
-  C:0800H         LINE#         5
-  C:0800H         LINE#         7
-  C:0809H         LINE#         8
-  C:0809H         LINE#         9
-  C:0816H         LINE#         10
-  C:0823H         LINE#         11
-  C:082AH         LINE#         12
+  C:0809H         LINE#         5
+  C:0809H         LINE#         6
+  C:0816H         LINE#         7
+  C:0823H         LINE#         8
+  C:082AH         LINE#         9
   -------         ENDPROC       _DELAY
   -------         PROC          MAIN
-  C:082BH         LINE#         13
-  C:082BH         LINE#         14
-  C:082BH         LINE#         15
-  C:082BH         LINE#         16
-  C:082BH         LINE#         17
-  C:082DH         LINE#         18
-  C:0834H         LINE#         19
-  C:0836H         LINE#         20
-BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  09/13/2020  12:26:14  PAGE 3
+  C:082BH         LINE#         6
+  C:082BH         LINE#         7
+  C:082BH         LINE#         8
+  C:082BH         LINE#         9
+  C:082BH         LINE#         10
+  C:082DH         LINE#         11
+  C:0834H         LINE#         12
+  C:0836H         LINE#         13
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  09/13/2020  18:50:06  PAGE 3
 
 
-  C:083DH         LINE#         21
+  C:083DH         LINE#         14
   -------         ENDPROC       MAIN
   -------         ENDMOD        MAIN
 
