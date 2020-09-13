@@ -1,15 +1,17 @@
 #include<reg51.h>
 #include "delay.h"
-sbit PIN0=P0^0;
+
+sbit LED=P2^0;
+sbit SW1=P1^0;
 
 
 void main(void)
 {
 	while(1)
-	{
-		PIN0=1;
-		delay(500);
-		PIN0=0;
-		delay(500);
+	{	
+			if(SW1==0)
+				LED=0;
+			else
+				LED=1;
 	}
 }
