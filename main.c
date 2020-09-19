@@ -1,17 +1,17 @@
-#include<reg51.h>
+#include <reg51.h>
 #include "delay.h"
-
-sbit LED=P2^0;
-sbit SW1=P1^0;
-
-
+#include "lcd.h"
 void main(void)
 {
-	while(1)
+	lcd_init();
+	lcd_data("A");
+	while(1);
+	//lcd_string("AT89S52");
+	/*while(1)
 	{	
 			if(SW1==0)
 				LED=0;
 			else
 				LED=1;
-	}
+	}*/
 }

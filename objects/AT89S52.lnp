@@ -1,4 +1,4 @@
 ".\Objects\STARTUP.obj",
-".\Objects\main.obj" 
+".\Objects\main1.obj" 
 TO ".\Objects\AT89S52" 
 PRINT(".\Listings\AT89S52.m51") RAMSIZE(256) 

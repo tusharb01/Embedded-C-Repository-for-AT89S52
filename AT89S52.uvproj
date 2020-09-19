@@ -382,9 +382,9 @@
               <FilePath>.\STARTUP.A51</FilePath>
             </File>
             <File>
-              <FileName>main.c</FileName>
+              <FileName>main1.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\main.c</FilePath>
+              <FilePath>.\main1.c</FilePath>
             </File>
           </Files>
         </Group>
